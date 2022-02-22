@@ -13,7 +13,7 @@ You can find Github documentation [here](https://help.github.com/en)
 Here you can find the [Images folder](/Images/)
 <a name="image"></a>
 ## Images 
-![](/Images/)
+![](/Images/rainbow.md)
 <a name="emo"></a>
 ## Emojis :satisfied:
 <a name="table"></a>
