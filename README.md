@@ -1,16 +1,19 @@
 # Github Flavoured Markdown
-- [ ] [External Link](#ex_link)
-- [ ] [Internal Link](#in_link)
-- [ ] [Images](#image)
-- [ ] [Emojis](#emo)
-- [ ] [Tables](#table)
+- [X] [External Link](#ex_link)
+- [X] [Internal Link](#in_link)
+- [X] [Images](#image)
+- [X] [Emojis](#emo)
+- [X] [Tables](#table)
 
 <a name="ex_link"></a>
-## External Link [https://help.github.com/en](url)
+## External Link 
+You can find Github documentation [here](https://help.github.com/en)
 <a name="in_link"></a>
-## Internal Link  [A Rainbow](https://user-images.githubusercontent.com/99728087/155082193-82853822-4153-4548-8319-f4553246871a.jpg)
+## Internal Link  [A Rainbow]
+Here you can find the [Images folder](/Images/)
 <a name="image"></a>
-## Images ![](https://user-images.githubusercontent.com/99728087/154979112-69929f0e-6998-4925-9a8c-22e2ce2fc863.jpeg)
+## Images 
+![](/Images/)
 <a name="emo"></a>
 ## Emojis :satisfied:
 <a name="table"></a>
