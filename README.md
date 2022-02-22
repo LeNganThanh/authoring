@@ -1,5 +1,5 @@
 # Github Flavoured Markdown
-- [X] U1 [External Link](#external-link)
+- [ ] U1 [External Link](#external-link)
 - [X] U1 [Internal Link](#checkboxes)
 - [X] U1 [Images](#images)
 - [X] U1 [Emojis](#emojis)
