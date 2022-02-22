@@ -1,11 +1,10 @@
 # Github Flavoured Markdown
-- [ ] - [External Link](#ex_link)
+- [X] - [External Link](#external-link)
 - [ ] - [Internal Link](#in_link)
 - [ ] - [Images](#image)
 - [ ] - [Emojis](#emo)
 - [ ] - [Tables](#table)
 
-<a name="ex_link"></a>
 ## External Link 
 You can find Github documentation [here](https://help.github.com/en)
 <a name="in_link"></a>
