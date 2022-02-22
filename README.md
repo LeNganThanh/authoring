@@ -28,3 +28,5 @@ Here you can find the [Images folder](/Images/rainbow.md)
 | Thanh | E02 |
 | Linda | E02 |
  
+## Test
+- [ ] Checkbox
