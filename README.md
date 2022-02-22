@@ -1,9 +1,9 @@
 # Github Flavoured Markdown
-- [ ] U1 [External Link](#external-link).
-- [X] U1 [Internal Link](#checkboxes).
-- [X] U1 [Images](#images).
-- [X] U1 [Emojis](#emojis).
-- [X] U1 [Tables](#tables).
+- [X] [External Link](#external-link)
+- [X] [Internal Link](#checkboxes)
+- [X] [Images](#images)
+- [X] [Emojis](#emojis)
+- [X] [Tables](#tables)
 
 ## External Link 
 You can find Github documentation [here](https://help.github.com/en)
