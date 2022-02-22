@@ -1,9 +1,9 @@
 # Github Flavoured Markdown
-- [X] [External Link](#ex_link)
-- [X] [Internal Link](#in_link)
-- [X] [Images](#image)
-- [X] [Emojis](#emo)
-- [X] [Tables](#table)
+- [X] - [External Link](#ex_link)
+- [X] - [Internal Link](#in_link)
+- [X] - [Images](#image)
+- [X] - [Emojis](#emo)
+- [X] - [Tables](#table)
 
 <a name="ex_link"></a>
 ## External Link 
