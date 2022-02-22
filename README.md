@@ -2,11 +2,11 @@
 
 ## Checkboxes
 
-- [X] [External Link](#external-link)
-- [X] [Internal Link](#checkboxes)
-- [X] [Images](#images)
-- [X] [Emojis](#emojis)
-- [X] [Tables](#tables)
+- [] [External Link](#external-link)
+- [] [Internal Link](#checkboxes)
+- [] [Images](#images)
+- [] [Emojis](#emojis)
+- [] [Tables](#tables)
 
 ## External Link 
 You can find Github documentation [here](https://help.github.com/en)
