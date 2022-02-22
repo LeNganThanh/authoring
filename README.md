@@ -21,7 +21,7 @@ Here you can find the [Images folder](/Images/rainbow.md)
 ## Tables
 
 | Name | Class |
-| ----------- | ----------- |
+| ---- | :---: |
 | Thanh | E02 |
 | Linda | E02 |
  
