@@ -10,7 +10,7 @@
 You can find Github documentation [here](https://help.github.com/en)
 <a name="in_link"></a>
 ## Internal Link  [A Rainbow]
-Here you can find the [Images folder](/Images/)
+Here you can find the [Images folder](/Images/rainbow.md)
 <a name="image"></a>
 ## Images 
 ![](/Images/rainbow.md)
