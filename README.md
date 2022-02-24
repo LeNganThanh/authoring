@@ -2,9 +2,9 @@
 
 ## Checkboxes
 
-- [X][External Link](#external-link)
-- [X][Internal Link](#checkboxes)
-- [X][Images](#images)
+- [X] [External Link](#external-link)
+- [X] [Internal Link](#checkboxes)
+- [X] U6 [Images](#images)
 - [X] [Emojis](#emojis)
 - [X] [Tables](#tables)
 
